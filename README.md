@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-visit ijse [IJSE](https://www.ijse.lk/).
+
 <h1 align="center">Hi 👋, I'm Nisala Ravihara</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
