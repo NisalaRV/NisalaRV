@@ -56,6 +56,9 @@ Here are some ideas to get you started:
    <img src="https://skillicons.dev/icons?i=figma,xd,androidstudio,idea,vscode,eclipse" />
   </a>
 </p>
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisalarv" alt="nisalarv" /></a> </p>
 
 
