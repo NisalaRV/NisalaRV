@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nisala Ravihara</h1>
 <h3 align="center"><b><i>Full Stack Software Developer from Sri Lanka</i></b></h3>
 
-<li>
+<br/>
 🌱 I’m currently learning Computer Science and Software Engineering.
 🌱 I’m currently learning at IJSE
 📫 How to reach me: nisalaravihara 129@gmail.com
