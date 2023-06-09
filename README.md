@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
+<!-- __________ -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisalarv" alt="nisalarv" /></a> </p>
 
