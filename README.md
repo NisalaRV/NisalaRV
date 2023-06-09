@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <h3 align="center"><b><i>Language Stack </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,python,php" />
+   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,python,php,mysql" />
   </a>
 </p>
 
