@@ -1,43 +1,21 @@
 
-
-<!--
-**NisalaRV/NisalaRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Nisala Ravihara</h1>
 <h3 align="center"><b><i>Full Stack Software Developer from Sri Lanka</i></b></h3>
 
 <br/>
 🌱 I’m currently learning Computer Science and Software Engineering.
+<br/>
 🌱 I’m currently learning at IJSE
+<br/>
 📫 How to reach me: nisalaravihara 129@gmail.com
-  </li>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisalarv&label=Profile%20views&color=0e75b6&style=flat" alt="nisalarv" /> </p>
-
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-
-<!-- ______ -->
-
 
 <p align="center">
 <a href = "https://www.linkedin.com/in/nisala-ravihara-00b784264/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -59,6 +37,7 @@ Here are some ideas to get you started:
    <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,python,php,mysql" />
   </a>
 </p>
+<br/>
 
 <h3 align="center"><b><i>IDEs and Design Tools </i></b></h3>
 <p align="center">
@@ -66,8 +45,7 @@ Here are some ideas to get you started:
    <img src="https://skillicons.dev/icons?i=figma,xd,androidstudio,idea,vscode,eclipse" />
   </a>
 </p>
-
-<!-- __________ -->
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisalarv" alt="nisalarv" /></a> </p>
 
