@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Nisala Ravihara</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h3 align="center"><b><i>Full Stack Software Developer from Sri Lanka</i></b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisalarv&label=Profile%20views&color=0e75b6&style=flat" alt="nisalarv" /> </p>
 
