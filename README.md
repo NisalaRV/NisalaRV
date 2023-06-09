@@ -25,6 +25,19 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+
+<!-- ______ -->
+
+
+<p align="center">
+<a href = "https://www.linkedin.com/in/nisala-ravihara-00b784264/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/NisalaRavihara" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<a href="mailto:nisalaravihara129@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+<!-- <a href = "" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
+<a href = "https://web.facebook.com/nisala.ravihara.5/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href = "https://www.hackerrank.com/nisalaravihara11?hr_r=1" target="blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
+</p>
+<!-- _______ -->
 <p align="left">
 </p>
 
