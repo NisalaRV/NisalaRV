@@ -7,7 +7,7 @@
 <br/>
 🌱 I’m currently learning at IJSE
 <br/>
-📫 How to reach me: nisalaravihara 129@gmail.com
+📫 How to reach me: nisalaravihara129@gmail.com
 
 
 
