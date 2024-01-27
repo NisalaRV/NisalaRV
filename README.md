@@ -37,7 +37,12 @@
    <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,python,php,mysql" />
   </a>
 </p>
-<br/>
+<h3 align="center"><b><i>Frameworks and Libraries </i></b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=nodejs,react,spring,jquery,tailwindcss,materialui,maven,bootstrap" />
+  </a>
+</p>
 
 <h3 align="center"><b><i>IDEs and Design Tools </i></b></h3>
 <p align="center">
