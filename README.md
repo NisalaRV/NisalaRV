@@ -34,13 +34,19 @@
 <h3 align="center"><b><i>Language Stack </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,python,php,mysql" />
+   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,python,php" />
   </a>
 </p>
 <h3 align="center"><b><i>Frameworks and Libraries </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=nodejs,react,spring,jquery,tailwindcss,materialui,maven,bootstrap" />
+  </a>
+</p>
+<h3 align="center"><b><i>Database Handling </i></b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
 
